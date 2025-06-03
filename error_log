@@ -1,0 +1,4 @@
+[03-Jun-2025 17:24:29 America/Fortaleza] PHP Fatal error:  Uncaught Exception: Arquivo autoload não encontrado, necessário executar composer install! in /home3/edmil821/public_html/sistemaAdm/index.php:62
+Stack trace:
+#0 {main}
+  thrown in /home3/edmil821/public_html/sistemaAdm/index.php on line 62
